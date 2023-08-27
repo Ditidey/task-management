@@ -3,7 +3,11 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            home
+            <div>
+                <div>
+                   <button className='btn'>Add Tasks</button>
+                </div>
+            </div>
         </div>
     );
 };
